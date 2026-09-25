@@ -7,4 +7,4 @@ Android app, available on Google Play.
 **Email:** q.fives.app@gmail.com  
 **Package:** com.shoaib.quranfives  
 
-**Live Policy URL:** https://github.com/idrisharif88-rgb/My-Privacy-Policy
+**Live Policy URL:** https://idrisharif88-rgb.github.io/My-Privacy-Policy/
